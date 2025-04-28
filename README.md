@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**tavinEscada/tavinEscada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there 👋 Olá!!
+## Sobre mim:
+- 🔭 Formado no Curso Técnico Integrado em Informática no Instituto Federal de Minas Gerais, Campus Ouro Branco.
+- ⚡ Cursando Bacharelado em Ciência da Computação na Universidade Federal de Viçosa, Campus Florestal.
+- 🌱 Atualmente estudando Algoritmos na linguagem C.
+- 💬 Converse comigo sobre Java 😄
+- 📫 Contato: otaviotavares887@gmail.com
+## About me:
+- 🔭 Graduated Computer Technician at the Federal Institute of Minas Gerais, Ouro Branco Campus.
+- ⚡ Studying at the Federal University of Viçosa - Florestal Campus, Minas Gerais for a Bachelor's Degree in Computer Science.
+- 🌱 I’m currently learning Algorithms using the C language.
+- 💬 Ask me about Java 😄
+- 📫 How to reach me: otaviotavares887@gmail.com
