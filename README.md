@@ -13,4 +13,4 @@
 - 💬 Ask me about Java 😄
 - 📫 How to reach me: otaviotavares887@gmail.com
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=tavinescada&hide=html,makefile,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/tavinescada)
+[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=tavinescada&hide=makefile,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/tavinescada)
